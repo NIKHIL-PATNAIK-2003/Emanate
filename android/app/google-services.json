@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "114715905009",
+    "project_id": "emanate01-958f1",
+    "storage_bucket": "emanate01-958f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114715905009:android:59e97c082a1eba52021250",
+        "android_client_info": {
+          "package_name": "com.fluttergo.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114715905009-cb7dt95kcs3av4be8oop6i6u2bap11ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHjWJtAQcHyu3dCINKbSSwWRaLJvtcqcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114715905009-cb7dt95kcs3av4be8oop6i6u2bap11ov.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "114715905009-8bf724njjd9n3urijak0biamtshh9cln.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fluttergo.instagram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
