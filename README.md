@@ -1,7 +1,7 @@
 # Emanate
 Watch out our video 
 https://youtu.be/Zp5S4mlqx6A
-[![Watch the video](https://www.youtube.com/watch?v=Zp5S4mlqx6A)]
+
 
 About Project
 OBJECTIVE:
